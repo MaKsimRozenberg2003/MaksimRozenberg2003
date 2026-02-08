@@ -1,7 +1,7 @@
-## MaKsim Rozenberg 👋
+## MaKsimRozenberg2003 👋
 
 <!--
-**MaKsim Rozenberg/Maksim Rozenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MaKsimRozenberg2003/MaksimRozenberg2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
